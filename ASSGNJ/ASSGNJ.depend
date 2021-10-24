@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1574994468 source:c:\users\360ga\desktop\school\comp sci ii\assgnj\optimize quicksort.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<vector>
+	<fstream>
+	<iterator>
+	<algorithm>
+	"Complexity_Timer.hpp"
+	"Complexity_Recorder.hpp"
+
+1574965481 c:\users\360ga\desktop\school\comp sci ii\assgnj\complexity_timer.hpp
+	<vector>
+	<ctime>
+
+1574992163 c:\users\360ga\desktop\school\comp sci ii\assgnj\complexity_recorder.hpp
+	<vector>
+	<iostream>
+	<iomanip>
+
