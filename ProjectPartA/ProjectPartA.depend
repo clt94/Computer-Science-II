@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1572402169 source:c:\users\360ga\desktop\school\comp sci ii\projectparta\main.cpp
-	<iostream>
-	<iomanip>
-	<time.h>
-	<stdlib.h>
-	<limits>
-
